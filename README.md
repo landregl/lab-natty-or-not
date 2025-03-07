@@ -21,7 +21,7 @@ Porém, o foco principal do prompt estava apoiado na palavra **"realista"** e ne
  * 2º lugar: Copilot
  * 3º lugar: ChatGPT (praticamente não realista)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 A criação de imagens por ferramentas IA pode gerar imagens bastante realistas, indistinguíveis ao olho humano de uma fotografia gerada por processo tradicional. Entretanto, não se pode afirmar em um escopo pequeno, como o utilizado, que uma IA é melhor do que as outras. O resultado apresentado reflete apenas o alcançado para este prompt, neste momento e sem refinamento.
 
 ## Imagens geradas
