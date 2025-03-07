@@ -22,7 +22,8 @@ Porém, o foco principal do prompt estava apoiado na palavra **"realista"** e ne
  * 3º lugar: ChatGPT (praticamente não realista)
 
 ## 💭 Reflexão (Opcional)
-A criação de imagens por ferramentas IA pode gerar imagens bastante realistas, indistinguíveis ao olho humano e uma fotografia gerada por processo tradicional.
+A criação de imagens por ferramentas IA pode gerar imagens bastante realistas, indistinguíveis ao olho humano de uma fotografia gerada por processo tradicional. Entretanto, não se pode afirmar em um escopo pequeno, como o utilizado, que uma IA é melhor do que as outras. O resultado apresentado reflete apenas o alcançado para este prompt, neste momento e sem refinamento.
+
 ## Imagens geradas
 ![Meta_AI_menina_sorvete](https://github.com/user-attachments/assets/8c146800-55cc-4968-a3bc-a434cdbbb0f2)
 ![Copilot_IA_menina_sorvete](https://github.com/user-attachments/assets/48676b84-87ce-464a-928e-5318aabb83c3)
